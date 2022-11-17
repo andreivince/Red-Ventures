@@ -32,11 +32,15 @@ header {
     text-decoration: none;
 }
 
+.text2 {
+    line-height: 130%;
+}
+
 .left {
     position: fixed;
     left: 12%;
     color: rgb(96, 96, 96);
-    top: 25%;
+    top: 30%;
     margin-right: 50%;
 }
 
@@ -46,9 +50,20 @@ header {
 }
 
 button {
-    margin-top: 10%;
+    margin-top: 5%;
     width: 180px;
     height: 60px;
     font-size: 20px;
     color: rgb(96, 96, 96);
+}
+
+.pic {
+    width: 500px;
+    height: 500px;
+}
+
+.right {
+    position: fixed;
+    right: 12%;
+    top: 15%;
 }
