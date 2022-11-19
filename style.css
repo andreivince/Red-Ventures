@@ -33,7 +33,7 @@ header {
 }
 
 .text2 {
-    line-height: 130%;
+    line-height: 140%;
 }
 
 .left {
@@ -50,7 +50,7 @@ header {
 }
 
 button {
-    margin-top: 5%;
+    margin-top: 3%;
     width: 180px;
     height: 60px;
     font-size: 20px;
