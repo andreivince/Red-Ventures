@@ -23,6 +23,7 @@ header {
 .text {
     position: fixed;
     right: 11%;
+    cursor: pointer;
 
 }
 
@@ -55,7 +56,16 @@ button {
     height: 60px;
     font-size: 20px;
     color: rgb(96, 96, 96);
+    cursor: pointer;
 }
+
+.text a:hover {
+    color: rgb(230, 20, 20);
+    text-decoration: underline;
+    text-underline-offset: 8px; /* With this coe the text underline start to be far away from the text */
+}
+
+
 
 .pic {
     width: 500px;
