@@ -86,10 +86,10 @@ button {
 
     .left {
         font-size: 8px;
-        width: 100%;
+        width: 80%;
         margin-left: 0px;
         margin: 50px;
-        margin-top: 30%;
+        margin-top: 12%;
 
     }
     .right {
@@ -101,7 +101,7 @@ button {
     }
 
     .title {
-        font-size: 40px;
+        font-size: 35px;
         font-weight: 600;
     }
 
@@ -115,7 +115,7 @@ button {
 
 button {
     margin-top: 3%;
-    width: 400px;
+    width: 300px;
     height: 100px;
     font-size: 32px;
     color: rgb(0, 0, 0);
